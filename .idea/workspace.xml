@@ -4,7 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f74ba66-4f55-4004-8d08-b1ba0ae030cc" name="Changes" comment="" />
+    <list default="true" id="7f74ba66-4f55-4004-8d08-b1ba0ae030cc" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/co.edu.uniquindio.biblioteca/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/co.edu.uniquindio.biblioteca/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/co.edu.uniquindio.biblioteca/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/co.edu.uniquindio.biblioteca/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/co.edu.uniquindio.biblioteca/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/co.edu.uniquindio.biblioteca/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/co.edu.uniquindio.biblioteca/src/main/java/co/edu/uniquindio/biblioteca/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/co.edu.uniquindio.biblioteca/src/main/java/co/edu/uniquindio/biblioteca/model/Biblioteca.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/co.edu.uniquindio.biblioteca/src/main/java/co/edu/uniquindio/biblioteca/model/Bibliotecario.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/co.edu.uniquindio.biblioteca/src/main/java/co/edu/uniquindio/biblioteca/model/Empleado.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/co.edu.uniquindio.biblioteca/src/main/java/co/edu/uniquindio/biblioteca/model/Libro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/co.edu.uniquindio.biblioteca/src/main/java/co/edu/uniquindio/biblioteca/model/Miembro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/co.edu.uniquindio.biblioteca/src/main/java/co/edu/uniquindio/biblioteca/model/Prestamo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/co.edu.uniquindio.biblioteca/src/main/java/co/edu/uniquindio/biblioteca/service/IGestionarInventario.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,6 +77,8 @@
       <workItem from="1708634095336" duration="148000" />
       <workItem from="1708634278126" duration="66000" />
       <workItem from="1708635102131" duration="7000" />
+      <workItem from="1708643868267" duration="959000" />
+      <workItem from="1708645028265" duration="20000" />
     </task>
     <servers />
   </component>
